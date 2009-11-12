@@ -5,6 +5,8 @@
 	<version>1.0</version>
 	<category>Content</category>
 	<type>photo_album</type>
+	<author>CMScout</author>
+	<description>A nicely featured photo album system.</description>	
 	<requires>
 		<require type="type">upload</require>
 	</requires>
